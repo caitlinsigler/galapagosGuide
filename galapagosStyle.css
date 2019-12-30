@@ -9,6 +9,21 @@ body {
 h1 {
   color: black;
 }
+h3{
+  padding-left: 40px;
+}
+h4{
+  padding-left: 70px;
+}
+h5{
+  font-size: 18px;
+}
+
+button {
+  font-size: 12px;
+  padding: 10px;
+}
+
 /* Dropdown Button */
 .dropbtn {
 /*
