@@ -28,22 +28,12 @@ button {
   padding-top: 25px;
 }
 
-/* Dropdown Button */
-.dropbtn {
-/*
-  background-color: blue;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none; */
-}
 
-/* The container <div> - needed to position the dropdown content */
 .dropdown {
   position: relative;
   display: inline-block;
 }
-/* Dropdown Content (Hidden by Default) */
+
 .dropdown-content {
   display: none;
   position: absolute;
@@ -53,7 +43,6 @@ button {
   z-index: 1;
 }
 
-/* Links inside the dropdown */
 .dropdown-content a {
   color: black;
   padding: 12px 16px;
@@ -61,18 +50,14 @@ button {
   display: block;
 }
 
-/* Change color of dropdown links on hover */
 .dropdown-content a:hover {background-color: #ddd;}
-
-/* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
 
-/* The container <div> - needed to position the dropdown content */
 .dropdown2 {
   position: relative;
   display: inline-block;
 }
-/* Dropdown Content (Hidden by Default) */
+
 .dropdown-content2 {
   display: none;
   position: absolute;
@@ -82,7 +67,6 @@ button {
   z-index: 1;
 }
 
-/* Links inside the dropdown */
 .dropdown-content2 a {
   color: black;
   padding: 12px 16px;
@@ -90,8 +74,5 @@ button {
   display: block;
 }
 
-/* Change color of dropdown links on hover */
 .dropdown-content2 a:hover {background-color: #ddd;}
-
-/* Show the dropdown menu on hover */
 .dropdown2:hover .dropdown-content2 {display: block;}
