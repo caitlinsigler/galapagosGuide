@@ -1,5 +1,6 @@
 body {
     background-color: lightblue;
+    padding-top: 25px;
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 25px
@@ -23,7 +24,7 @@ button {
 }
 
 .photo{
-  padding-top: 25px;
+  
 }
 
 
