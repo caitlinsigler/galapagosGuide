@@ -58,8 +58,6 @@ button {
 .dropdown {
   position: relative;
   display: inline-block;
-  align-items: center;
-  justify-content: center;
 }
 
 .dropdown-content {
