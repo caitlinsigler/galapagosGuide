@@ -4,31 +4,27 @@ body {
     padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 25px;
-    font-family: Thasadith;
+    font-family: Optima, sans-serif;
 }
 
 h1 {
   color: black;
-  font-family: Thasadith;
 }
 h3{
-    font-size: 18px;
-    font-family: Thasadith;
+    font-size: 20px;
 }
 h4{
-    font-size: 14px;
+    font-size: 16px;
     padding-right: 10px;
-    font-family: Thasadith;
 }
 h5{
     font-size: 18px;
-    font-family: Thasadith;
 }
 
 button {
     font-size: 12px;
     padding: 10px;
-    font-family: Thasadith;
+    font-family: Optima, sans-serif;
 }
 
 .title{
@@ -42,7 +38,7 @@ button {
 }
 
 .mainText{
-    font-family: Thasadith;
+    font-family: Optima, sans-serif;
 }
 
 .dropdown {
