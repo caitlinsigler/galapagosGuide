@@ -41,6 +41,9 @@ button {
   padding-top: 25px;
 }
 
+.mainText{
+    font-family: Thasadith;
+}
 
 .dropdown {
   position: relative;
