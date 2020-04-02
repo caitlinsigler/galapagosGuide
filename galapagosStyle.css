@@ -9,19 +9,24 @@ body {
 
 h1 {
   color: black;
+  font-family: Thasadith;
 }
 h3{
+    font-family: Thasadith;
 }
 h4{
-  padding-right: 10px;
+    padding-right: 10px;
+    font-family: Thasadith;
 }
 h5{
-  font-size: 18px;
+    font-size: 18px;
+    font-family: Thasadith;
 }
 
 button {
-  font-size: 12px;
-  padding: 10px;
+    font-size: 12px;
+    padding: 10px;
+    font-family: Thasadith;
 }
 
 .title{
@@ -38,7 +43,7 @@ button {
 .dropdown {
   position: relative;
   display: inline-block;
-  text-align:center;
+  text-align: center;
 }
 
 .dropdown-content {
