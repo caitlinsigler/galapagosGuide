@@ -3,7 +3,8 @@ body {
     padding-top: 25px;
     padding-left: 50px;
     padding-right: 50px;
-    padding-bottom: 25px
+    padding-bottom: 25px;
+    font-family: Thasadith;
 }
 
 h1 {
@@ -26,6 +27,7 @@ button {
 .title{
     text-align: center;
     font-family: Optima, sans-serif;
+    font-size: 48;
     
 }
 .indexphoto{
