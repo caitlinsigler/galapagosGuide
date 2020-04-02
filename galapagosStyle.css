@@ -12,9 +12,11 @@ h1 {
   font-family: Thasadith;
 }
 h3{
+    font-size: 18px;
     font-family: Thasadith;
 }
 h4{
+    font-size: 14px;
     padding-right: 10px;
     font-family: Thasadith;
 }
@@ -32,7 +34,7 @@ button {
 .title{
     text-align: center;
     font-family: Optima, sans-serif;
-    font-size: 48;
+    font-size: 56;
     
 }
 .indexphoto{
@@ -43,7 +45,6 @@ button {
 .dropdown {
   position: relative;
   display: inline-block;
-  text-align: center;
   align-items: center;
   justify-content: center;
 }
