@@ -44,6 +44,8 @@ button {
   position: relative;
   display: inline-block;
   text-align: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .dropdown-content {
