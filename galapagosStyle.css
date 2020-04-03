@@ -49,8 +49,7 @@ button {
 
 .indexphoto{
   padding-top: 25px;
-  display: grid;
-  height: 100%;
+  align: center;
 }
 
 .mainText{
